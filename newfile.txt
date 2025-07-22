@@ -1,0 +1,1 @@
+New content, or some lines in the newfile.txt.
