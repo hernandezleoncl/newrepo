@@ -1,1 +1,3 @@
 New content, or some lines in the newfile.txt.
+
+Add or edit some lines in the file.
